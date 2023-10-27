@@ -1,0 +1,41 @@
+**Nombre del animal,Vertebrado/Invertebrado,Tamaño (m),Hábitat,Número de ojos,Clase**
+Elefante africanu,Vertebrado,"2,5",Terrestre,2,Mamifero
+Ardilla roja,Vertebrado,"0,5",Terrestre,2,Mamifero
+Raton,Vertebrado,"0,2",Terrestre,2,Mamifero
+Murcielago,Vertebrado,"0,1",Terrestre,2,Mamifero
+Aguila real,Vertebrado,2,Terrestre,2,Ave
+Gorrion,Vertebrado,"0,1",Terrestre,2,Ave
+Colibri,Vertebrado,"0,05",Aereo,2,Ave
+Pato,Vertebrado,"0,5",Acuatico,2,Ave
+Cocodrilo,Vertebrado,10,Terrestre,2,Reptil
+Lagartija,Vertebrado,1,Terrestre,2,Reptil
+Serpiente,Vertebrado,"0,5",Terrestre,2,Reptil
+Ballena azul,Vertebrado,10,Marino,2,Pez
+Tiburon blanco,Vertebrado,1,Marino,2,Pez
+Atun,Vertebrado,"0,5",Marino,2,Pez
+Salmón,Vertebrado,"0,1",Marino,2,Pez
+Rana,Vertebrado,"0,5",Terrestre y aquatico,2,Anfibio
+Salamandra,Vertebrado,"0,1",Terrestre y aquatico,2,Anfibio
+Sapo,Vertebrado,"0,05",Terrestre,2,Anfibio
+Mariposa,Invertebrado,"0,5",Terrestre,2,Insecto
+Hormiga,Invertebrado,"0,1",Terrestre,2,Insecto
+Mosca,Invertebrado,"0,05",Terrestre,2,Insecto
+Mosquito,Invertebrado,"0,01",Aereo,2,Insecto
+Langosta,Invertebrado,"0,5",Marino,2,Crustaceo
+Cangrejo,Invertebrado,"0,1",Marino,2,Crustaceo
+Gamba,Invertebrado,"0,05",Marino,2,Crustaceo
+Medusa,Invertebrado,"0,1",Marino,200,Cnidario
+Anemona,Invertebrado,"0,05",Marino,200,Cnidario
+Coral,Invertebrado,"0,01",Marino,200,Cnidario
+Pulpo,Invertebrado,"0,5",Marino,2,Molusco
+Almeja,Invertebrado,"0,1",Marino,2,Molusco
+Caracol,Invertebrado,"0,05",Marino,2,Molusco
+Arana,Invertebrado,"0,5",Terrestre,8,Artropodo
+Escorpion,Invertebrado,"0,1",Terrestre,8,Artropodo
+Aracnidos,Invertebrado,"0,05",Terrestre,8,Artropodo
+Estrella de mar,Invertebrado,"0,5",Marino,5,Equinodermo
+Erizo de mar,Invertebrado,"0,1",Marino,5,Equinodermo
+Lirio de mar,Invertebrado,"0,05",Marino,5,Equinodermo
+Calamar,Invertebrado,"0,5",Marino,10,Cefalopodo
+Pulpo,Invertebrado,"0,1",Marino,10,Cefalopodo
+Nautilus,Invertebrado,"0,05",Marino,10,Cefalopodo

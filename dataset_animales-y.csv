@@ -1,0 +1,19 @@
+Habitat,Tamaño (m),Número de ojos,Número de patas,Nombre,Clase
+Terrestre,"2.5",2,4,Elefante,Mamífero
+Terrestre,"0.5",2,4,Ardilla,Mamífero
+Terrestre,"0.2",2,4,Ratón,Mamífero
+Terrestre,"0.1",2,4,Murciélago,Mamífero
+Terrestre,2.2,2,Águila,Ave
+Terrestre,"0.1",2,2,Gorrión,Ave
+Aéreo,"0.05",2,0,Colibrí,Ave
+Acuático,"0.5",2,2,Pato,Ave
+Terrestre,10.2,4,Cocodrilo,Reptil
+Terrestre,1.2,0,Lagartija,Reptil
+Terrestre,"0.5",2,0,Serpiente,Reptil
+Marino,10,2,0,Ballena,Mamífero
+Marino,1,2,0,Tiburón,Pez
+Marino,"0.5",2,0,Atún,Pez
+Marino,"0.1",2,0,Salmón,Pez
+Terrestre y acuático,"0,5",2,4,Rana,Anfibio
+Terrestre y acuático,"0,1",2,4,Salamandra,Anfibio
+Terrestre,"0,05",2,4,Sapo,Anfibio

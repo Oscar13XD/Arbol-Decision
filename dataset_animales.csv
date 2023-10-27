@@ -1,0 +1,19 @@
+Habitat,Tamano (cm),Numero de ojos,Numero de patas,Nombre,Clase
+Terrestre,250,2,4,Elefante,Mamifero
+Terrestre,50,2,4,Ardilla,Mamifero
+Terrestre,20,2,4,Raton,Mamifero
+Terrestre,10,2,4,Murcielago,Mamifero
+Terrestre,200,2,2,Aguila,Ave
+Terrestre,10,2,2,Gorrion,Ave
+Aereo,5,2,0,Colibri,Ave
+Acuatico,50,2,2,Pato,Ave
+Terrestre,1000,2,4,Cocodrilo,Reptil
+Terrestre,20,2,0,Lagartija,Reptil
+Terrestre,10,2,0,Serpiente,Reptil
+Marino,1000,2,0,Ballena,Mamifero
+Marino,200,2,0,Tiburon,Pez
+Marino,50,2,0,Atun,Pez
+Marino,10,2,0,Salmon,Pez
+Terrestre y Acuatico,50,2,4,Rana,Anfibio
+Terrestre y Acuatico,10,2,4,Salamandra,Anfibio
+Terrestre,5,2,4,Sapo,Anfibio
